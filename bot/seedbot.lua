@@ -227,22 +227,16 @@ function create_config( )
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/ShAhabsaf1/TELESEED-test
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@Shahabsaf [Founder]
+@Shahabsaf [Developer]
+@Shahabsaf [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@imandaneshi @seyedan25 for anything 
 
-Our channels
-@teleseedch [English]
-]],
     help_text = [[
 Commands list :
 
